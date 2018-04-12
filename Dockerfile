@@ -1,7 +1,7 @@
 FROM mono:latest
 LABEL maintainer="lucas-natraj" 
 
-ENV DOCFX_VER 2.29.1
+ENV DOCFX_VER 2.34
 
 RUN apt-get update && \
     apt-get install unzip wget -y && \
