@@ -13,4 +13,4 @@ RUN apt-get update && \
     rm -f /tmp/*
 
 ENTRYPOINT [ "docfx" ]
-CMD [ "help"]
+CMD [ "help" ]
