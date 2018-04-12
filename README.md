@@ -1,6 +1,6 @@
 # docfx-docker
 
-Image contains the required assemblies to generate docfx documentation.
+Image contains the required docfx tools to generate dotnet documentation.
 
 ## Run
 
